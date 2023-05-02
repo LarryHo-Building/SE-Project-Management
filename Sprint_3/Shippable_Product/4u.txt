@@ -1,0 +1,7 @@
+Item_id,Item_name,Item_type,base_price,image_url
+00001,Coffee A,Coffee,10.00,img/coffee-a.jpg
+00002,Coffee B,Coffee,5.00,img/Coffee-B.jfif
+00003,Ham Sandwich a,Sandswich,12.00,img/Sandwich-A.jfif
+00004,Ham Sandwich b,Sandswich,12.00,img/Sandwich-B.jfif
+00009,cake_a,Cake,12.00,img/cake-a.jpg
+00010,rainbow cake,Cake,15.00,img/rainbow_cake.jpg
