@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>payment</title>
+    <link rel="stylesheet" href="../css/payment.css">
+</head>
+<body>
+     <div class="paybox">
+         <div class="title">Pay by Credit Card</div>
+         <hr><hr/>
+         <div class="cardno">
+             CardNo.
+             <input type="text" maxlength="4" onkeyup=value=value.replace(/[^\d]/g,'')>
+             <input type="text" maxlength="4" onkeyup=value=value.replace(/[^\d]/g,'')>
+             <input type="text" maxlength="4" onkeyup=value=value.replace(/[^\d]/g,'')>
+             <input type="text" maxlength="4" onkeyup=value=value.replace(/[^\d]/g,'')>
+         </div>
+         <div class="expirydate">
+             Expiry Date
+             <input type="text" maxlength="2" onkeyup=value=value.replace(/[^\d]/g,'')>
+             /
+             <input type="text" maxlength="2" onkeyup=value=value.replace(/[^\d]/g,'')>
+         </div>
+         <div class="ccv">
+             CCV
+             <input type="text" maxlength="3" onkeyup=value=value.replace(/[^\d]/g,'')>
+         </div>
+         <div>
+             <input id="submit" type="submit">
+         </div>
+     </div>
+
+
+
+
+</body>
+</html>

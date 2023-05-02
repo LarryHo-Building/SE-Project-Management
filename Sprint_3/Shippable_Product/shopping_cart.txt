@@ -1,0 +1,3 @@
+00001,Coffee A,Large,10.00
+00002,Coffee B,Small,5.00
+00003,Cake A,No Size,5.00	
